@@ -1,0 +1,11 @@
+{
+"sites":[
+{"key": "非凡","name": "️🐝┃非凡┃已去广告","type": 1,"api": "https://www.ah121.com/api.php/provide/vod/from/ffm3u8/?at/xml/","playUrl": "json:https://www.itvbox.cc/fflz.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
+{"key": "量子云播","name": "🐝┃量子┃已去广告","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:https://www.itvbox.cc/fflz.php?url="},
+{"key": "红红","name": "🌈红红┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"},
+{"key": "黄黄","name": "😎黄黄┃App","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
+{"key":"酷酷","name":"酷酷app","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.wbsys.top/api.php/app/"},
+
+"rules":[
+{"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"非凡广告","hosts":["vip.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]}]}
