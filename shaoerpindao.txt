@@ -1,0 +1,59 @@
+{
+"spider":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/xymz.txt;md5;4f0ca6c7b3837f6e1d10b9cea14ea078f12473a0",
+"sites":[
+{"key": "🍎小苹果","name": "小苹果🍎","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://我不是.肥猫.love:63/Jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580"},
+{"key":"drpy_酷云七七","name":"🌈┃七七┃影视","type":3,"api":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/apiv73drpy2.min.js","ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/酷云77.js"},
+{"key": "酷影", "name": "酷影高清┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/"}, 
+
+{"key": "csp_aidi_api","name": "🐩AI迪高清APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
+
+{"key":"csp_appys_多米","name":"🍚多米app","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
+
+{"key":"csp_appys_996","name":"🍻┣996┫APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
+
+{"key":"csp_mengdandan_api","name":"🥚萌蛋蛋APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
+
+{"key":"csp_appysv2_东方","name":"🐲东方app","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dfspapp.com/api.php/app/"},
+
+{"key":"菲克","name":"🍸菲克app","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","ext":"https://www.freeok.vip/api.php/app/"},	
+
+{"key":"csp_三亚","name":"🦢三亚┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
+
+{"key":"csp_AppYsV2_如意","name":"💐如意app","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
+{"key":"csp_appysv2_迷你库","name":"🍯迷你库APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
+
+{"key":"aol","name":"👌🏻欧乐APP","type":4,"api":"https://php.dovxs.repl.co/vod/ole.php"},
+
+{"key":"csp_xml_野熊","name":"🐻野熊影视","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"https://player.3412.net.cn/?url="},
+
+//需要上传更改线路
+{"key": "csp_吃力熊","name": "🐻┃吃力熊","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/吃力熊.json"},
+  
+{"key":"csp_kdb","name":"🍌看点蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/看点播.json"},
+
+{"key":"csp_热播剧","name":"🌴热播蓝光(随缘)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/热播库.json"},
+
+{"key":"csp_55","name":"5️⃣️555高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/555影视.json"},
+
+{"key":"csp_miai","name":"🌾米爱蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/米爱影视.json"},
+
+{"key":"csp_bt","name":"😢鼻涕影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/鼻涕影视.json"},
+
+{"key":"csp_dmxq","name":"🌾大米影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/大米星球.json"},
+
+{"key":"csp_fk","name":"🍾菲克蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/菲克高清.json"},
+
+{"key":"csp_66","name":"🤙66影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/66影视.json"},
+
+{"key":"csp_91","name":"👇9影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/91影视.json"},
+
+{"key":"csp_ttys","name":"🦅天天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/天天影视.json"},
+
+{"key":"csp_XBPQ","name":"🚧无名小站","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/无名小站.json"},
+
+{"key":"csp_ts","name":"🏵️230听书","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/230.json"},
+
+//js
+{"key":"dr_zjt","name":"🐇追剧兔","type":3,"api":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/apiv73drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/wang-jianhu/tv/raw/master/shaoerpindao/追剧兔.js"}
+]}
